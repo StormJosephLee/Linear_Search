@@ -8,7 +8,7 @@ import java.util.Scanner;
  * 一维搜索之成功失败法：
  * 算法步骤：
  * 利用“成功-失败”法求函数φ(λ)=λ^3-2λ+1的搜索区间，1 -2 0 1
- * 取初始点λ0=-1/2,步长h0=1/2
+ * 取初始点λ0=-1/2,步长h0=1/2。
  */
 public class Success_Failure {
     private Double phi =new Double(0);
